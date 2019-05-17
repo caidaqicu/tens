@@ -14,7 +14,7 @@ import java.util.Map;
 
 @RestController
 @RequestMapping("/label")
-@CrossOrigin //设置允许跨域访问
+@CrossOrigin //设置允许跨域访问11
 public class LabelController {
 
     @Autowired
